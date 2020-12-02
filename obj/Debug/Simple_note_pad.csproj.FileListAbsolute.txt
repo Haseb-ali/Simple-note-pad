@@ -1,0 +1,26 @@
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.exe
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.exe
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form3.resources
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form4.resources
+C:\Users\HP\Documents\Visual Studio 2015\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form5.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.exe.config
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.exe
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.pdb
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.exe
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\bin\Debug\Simple_note_pad.pdb
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.csprojResolveAssemblyReference.cache
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form1.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form2.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form3.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form4.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Form5.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.Properties.Resources.resources
+D:\my appplications by .net framwork\Simple_note_pad\Simple_note_pad\obj\Debug\Simple_note_pad.csproj.GenerateResource.Cache
